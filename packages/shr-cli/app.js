@@ -18,7 +18,7 @@ const SpecificationsFilter = require('./filter');
 /* eslint-disable no-console */
 
 sanityCheckModules({shrTI, shrEx, shrJSE, shrEE, shrFE });
-
+//adding a fake test here
 // Record the time so we can print elapsed time
 const hrstart = process.hrtime();
 
