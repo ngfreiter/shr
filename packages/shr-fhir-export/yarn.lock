@@ -21,8 +21,9 @@ acorn-jsx@^5.0.0:
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.0.1.tgz#32a064fd925429216a09b141102bfdd185fae40e"
 
 acorn@^6.0.7:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.2.0.tgz#67f0da2fc339d6cfb5d6fb244fd449f33cd8bbe3"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 ajv@^6.10.0, ajv@^6.9.1:
   version "6.10.1"
@@ -1034,10 +1035,10 @@ shebang-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
 
-shr-models@^6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/shr-models/-/shr-models-6.5.0.tgz#3fce98c39faf36864b983a56273315385cdd35af"
-  integrity sha512-Z0FvawkdTfjXWb2QpYy6XwVLPZjM9el3/yTXS7zao3IKkiYQ9DPWOGDnoSLr6iyGIjpxag5xt5VFYKy5aKjqVg==
+shr-models@^6.5.2:
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/shr-models/-/shr-models-6.8.0.tgz#b12d01d891672ffaac3bfd9819eae2ae0e635fe7"
+  integrity sha512-uL3+I4R+zS8rHrxpr2n7iNtmW9XyS1qVBKwutrrVJZy+NwTvQZ1+H9CgwVe+E+QWBis2KC1uCDcAPUcCl3Oslg==
 
 shr-test-helpers@^6.0.0:
   version "6.0.0"
