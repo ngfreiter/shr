@@ -1111,14 +1111,10 @@ lodash.keys@^3.0.0:
     lodash.isarguments "^3.0.0"
     lodash.isarray "^3.0.0"
 
-lodash@^4.17.14:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
-
-lodash@^4.17.4, lodash@^4.3.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+lodash@^4.17.14, lodash@^4.17.4, lodash@^4.3.0:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loose-envify@^1.0.0:
   version "1.3.1"
@@ -1405,28 +1401,28 @@ shebang-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
 
-shr-expand@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/shr-expand/-/shr-expand-6.0.0.tgz#a2072f971e19b9f221e012c0056ee389a78633d7"
-  integrity sha512-zzjli5uVY23J4jHnr5Cr+iLkZ7+6RsHk3kQMksBPUR4ly96NXlCRgillJ3IszbdP3dHpBuWymcrAOjyz4C/lRA==
+shr-expand@^6.4.2:
+  version "6.6.2"
+  resolved "https://registry.yarnpkg.com/shr-expand/-/shr-expand-6.6.2.tgz#129df704be95ed184d7f74ed45ebc6e9ff5cb0ed"
+  integrity sha512-j+vgCkp129F1hKm1jVG6MfmYBEHdX23peXAQAovj0wi/MV1Rpte1//+h3STj8UwaqCD8TDzTREjHsu5r4DBakw==
 
-shr-fhir-export@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/shr-fhir-export/-/shr-fhir-export-6.2.0.tgz#43aa24118b06e1513b68e980e95644d879e67e92"
-  integrity sha512-qslcasEr4NcoikNkn034S0/NmSRpUKpQAgTjkeBtvvIouKRlUOqbZ7bdPOsgXAVgE9r96nHCnmlWKwXrOFNxow==
+shr-fhir-export@^6.5.2:
+  version "6.8.2"
+  resolved "https://registry.yarnpkg.com/shr-fhir-export/-/shr-fhir-export-6.8.2.tgz#7b3c459c62fa87381e65461ce597518f37719ac7"
+  integrity sha512-BzIM0x4yxj4KMHr3Rns1LnI6A36qOWhCX+xgWb27R7mgyEzij+oNQl2sKgqJBllwOvJqrN58gQDygCgaV+wMMQ==
   dependencies:
     fs-extra "^2.0.0"
     lodash "^4.17.14"
 
-shr-json-schema-export@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/shr-json-schema-export/-/shr-json-schema-export-6.1.0.tgz#64e3cd2072d94d66f7519fc5553efe87e09cde5e"
-  integrity sha512-8EoiZ/BeEN+JqDLFtde1tWGaVJUI0I5VqxUQtZxDNKlvhHJ3riBx9urviTQv7eOwULinJQO/wz0tXW7KuLFPrg==
+shr-json-schema-export@^6.1.2:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/shr-json-schema-export/-/shr-json-schema-export-6.3.0.tgz#48f179e8ac859efc369373dc06d5e2f9b7a989a7"
+  integrity sha512-ucfEuD6gGhX6XecvDgLWVKCDpIq+SoyaycE3/BOJPKS8QFeAPDLeheu6Wffcxmeb/1tcb+dTHqQKfiWJSwfbPw==
 
-shr-models@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/shr-models/-/shr-models-6.2.0.tgz#1f66f3bc8a16c15328607e5b05a99cf7a3bc53fe"
-  integrity sha512-h7u7PpKuxd5epy+cMHzjnGAesPo/GmtQnUjeZHMuIfoNzJ82mrvMpZ8P3EdiKLD+y12nMzCX54wg8iAjDmzO5g==
+shr-models@^6.5.2:
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/shr-models/-/shr-models-6.8.0.tgz#b12d01d891672ffaac3bfd9819eae2ae0e635fe7"
+  integrity sha512-uL3+I4R+zS8rHrxpr2n7iNtmW9XyS1qVBKwutrrVJZy+NwTvQZ1+H9CgwVe+E+QWBis2KC1uCDcAPUcCl3Oslg==
 
 shr-test-helpers@^6.0.0:
   version "6.0.0"
@@ -1435,10 +1431,10 @@ shr-test-helpers@^6.0.0:
   dependencies:
     fs-extra "^5.0.0"
 
-shr-text-import@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/shr-text-import/-/shr-text-import-6.2.0.tgz#10645c149c941beed065b1e8e11fba621e5b05d9"
-  integrity sha512-JgAILHzmuTgWUkaV8il+o3dzcuLvD8rqS2/WLjL1qngvUbNhK4hWIIqRzk7FQYKmE4HfS/Hi8gQyjKSNB0casg==
+shr-text-import@^6.5.2:
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/shr-text-import/-/shr-text-import-6.7.2.tgz#127b7432634e014c421ad56664b8a990e33d32dd"
+  integrity sha512-FdXAihb7dPqYYctEIHT+JiK2zcSQakl9xW6WfuAeu3c4YQ3xGsRNgF/AV6WL0MVmdCgX/6tY/Ar1W60dm62Wjw==
   dependencies:
     antlr4 "~4.6.0"
 
