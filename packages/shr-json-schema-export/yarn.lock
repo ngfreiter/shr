@@ -685,8 +685,9 @@ lodash.keys@^3.0.0:
     lodash.isarray "^3.0.0"
 
 lodash@^4.0.0, lodash@^4.3.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 "minimatch@2 || 3", minimatch@^3.0.2, minimatch@^3.0.4:
   version "3.0.4"
@@ -915,15 +916,15 @@ shelljs@^0.7.5:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-shr-expand@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/shr-expand/-/shr-expand-6.1.0.tgz#ff62b5753c1f7f15020f101e049599d8cd1eec41"
-  integrity sha512-DawibirT2jYxAuJxNYnUpDUzlb86d4GKQ+IVMqpMAlcuNjhTKTSdZKIGc34uQVZx4rh6iWfr2bqtwtV5uwnkcQ==
+shr-expand@^6.4.2:
+  version "6.6.2"
+  resolved "https://registry.yarnpkg.com/shr-expand/-/shr-expand-6.6.2.tgz#129df704be95ed184d7f74ed45ebc6e9ff5cb0ed"
+  integrity sha512-j+vgCkp129F1hKm1jVG6MfmYBEHdX23peXAQAovj0wi/MV1Rpte1//+h3STj8UwaqCD8TDzTREjHsu5r4DBakw==
 
-shr-models@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/shr-models/-/shr-models-6.2.0.tgz#1f66f3bc8a16c15328607e5b05a99cf7a3bc53fe"
-  integrity sha512-h7u7PpKuxd5epy+cMHzjnGAesPo/GmtQnUjeZHMuIfoNzJ82mrvMpZ8P3EdiKLD+y12nMzCX54wg8iAjDmzO5g==
+shr-models@^6.5.2:
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/shr-models/-/shr-models-6.8.0.tgz#b12d01d891672ffaac3bfd9819eae2ae0e635fe7"
+  integrity sha512-uL3+I4R+zS8rHrxpr2n7iNtmW9XyS1qVBKwutrrVJZy+NwTvQZ1+H9CgwVe+E+QWBis2KC1uCDcAPUcCl3Oslg==
 
 shr-test-helpers@^6.0.0:
   version "6.0.0"
